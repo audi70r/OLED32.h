@@ -1,5 +1,5 @@
-#ifndef OLED_H
-#define OLED_H
+#ifndef OLED32_H
+#define OLED32_H
 
 #if ARDUINO >= 100
 	#include "Arduino.h"
